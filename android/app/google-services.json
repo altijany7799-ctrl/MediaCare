@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "616118709437",
+    "project_id": "mediacare-2be67",
+    "storage_bucket": "mediacare-2be67.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616118709437:android:4eb977ffdae663587d1bd4",
+        "android_client_info": {
+          "package_name": "com.example.mediacare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCatfbOTR-milIvFtLid-bPbLb98otmvco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
